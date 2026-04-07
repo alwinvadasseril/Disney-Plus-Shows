@@ -1,4 +1,4 @@
-# 🎬 Disney PLus Shows - Dashboard
+# 🎬 Disney Plus Shows - Dashboard
 
 ## 📖 Overview
 
