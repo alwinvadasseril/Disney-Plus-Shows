@@ -1,5 +1,4 @@
 # Disney-Plus-Shows
-🎬 Disney Shows Dashboard (Power BI Project)
 📌 Project Overview
 
 This project analyzes Disney+ content using Excel and Power BI to understand content distribution, ratings, and audience engagement. The dashboard provides an interactive view of movies and series based on genre, release year, ratings, and popularity.
