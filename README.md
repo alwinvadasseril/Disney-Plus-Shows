@@ -1,4 +1,4 @@
-# 🎬 Disney+ Content Analysis Dashboard
+# 🎬 Disney PLus Shows - Dashboard
 
 ## 📖 Overview
 
